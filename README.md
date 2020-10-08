@@ -26,7 +26,7 @@ Playlists that include all the #1-5 songs for the 15 weeks, including duplicates
 |https://www.youtube.com/embed/videoseries?list=PLdswL3Tb01gwkpVgACu7F5KHvoBcmBqjT|https://www.youtube.com/embed/videoseries?list=PLdswL3Tb01gzutONVx35pwkfbQT6yIgj2| https://www.youtube.com/embed/videoseries?list=PLdswL3Tb01gzK5n7mQWXn8dSZHPKqrDIR|
 
 |#4 Songs|#5 Songs|
-|---|---|---|
+|---|---|
 |https://www.youtube.com/embed/videoseries?list=PLdswL3Tb01gwo_U7-OY-r2HGCO0sOZqhX |https://www.youtube.com/embed/videoseries?list=PLdswL3Tb01gwFogUKc2NcBdtoV-MWMZbM|
 
 To do: More filtered playlists.
